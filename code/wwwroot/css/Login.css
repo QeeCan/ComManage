@@ -1,0 +1,48 @@
+﻿.item {
+    margin-top: 150px;
+}
+
+.item i {
+    margin-top:40px;
+    font-size: 18px;
+    color: black;
+}
+
+.item input {
+    width: 180px;
+    font-size: 18px;
+    border: 0;
+    border-bottom: 2px solid #000;
+    padding: 5px 18px;
+}
+
+.bs{
+    margin-top: 25px;
+    margin-left: 200px;
+    width: 50px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    border: 0;
+    border-radius: 15px;
+}
+
+.bs a {
+    color:black;
+    text-decoration:none;
+}
+
+.ch{
+    margin-top: 150px;
+}
+.ch h4{
+
+        margin-top: 40px;
+        font-size: 18px;
+        color: black;
+    }
+
+.ch a{
+        margin-top: 40px;
+        color:burlywood;
+    }
